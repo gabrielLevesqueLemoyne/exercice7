@@ -12,4 +12,27 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentynineteen-enfant
 */
+.animbloc1 {
+  font-size: 1.5em;
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.animbloc2 {
+  background-color: pink;
+  text-align: justify;
+  font-size: 1em;
+}
+
+.animbloc1 {
+  font-size: 1.5em;
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.animbloc2 {
+  background-color: pink;
+  text-align: justify;
+  font-size: 1em;
+}
 /*# sourceMappingURL=style.css.map */
