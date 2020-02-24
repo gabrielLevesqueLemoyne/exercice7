@@ -25,7 +25,7 @@
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>" class="imprint">
 				<?php
 				/* translators: %s: WordPress. */
-				printf( __( 'Cours de veille | http://localhost/2020-veille/wordpress' ));
+				printf( __( 'Cours de veille | http://localhost/exercice7/wordpress' ));
 				?>
 			</a>
 			<?php
